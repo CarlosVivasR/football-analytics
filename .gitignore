@@ -1,0 +1,12 @@
+data/
+outputs/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+*.csv
+*.csv.gz
+*.xlsx
+*.parquet
